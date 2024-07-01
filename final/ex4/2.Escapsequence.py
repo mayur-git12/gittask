@@ -1,0 +1,5 @@
+print('My "name" is ABD')
+print('We\tare')
+print('helll\bo')
+print('ABD\\')
+print('My \'name\'is ABD')
