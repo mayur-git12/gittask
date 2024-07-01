@@ -20,7 +20,7 @@ class MyClass:
             return replacement
 
         replaced_text = re.sub(pattern, replace, text)
-        return replaced_text, replacements
+       # return replaced_text, replacements
 
 my_object = MyClass()
 text = "This is an example with {{content}} inside double curly braces. Also, {{object.property}} can be replaced."
