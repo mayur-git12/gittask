@@ -1,0 +1,56 @@
+1,A,surat,False
+1,B,baroda,False
+1,C,ahmedabad,False
+1,D,gandhinagar,True
+2,A,udaipur,True
+2,B,jaipur,False
+2,C,jodhpur,False
+2,D,kota,False
+3,A,jaisalmer,False
+3,B,barmer,False    
+3,C,sirohi,False
+3,D,jaipur,True
+4,A,narendra modi,False
+4,B,vijay rupani,False
+4,C,salman khan,False
+4,D,bhupendra patel,True
+5,A,narendra modi,True
+5,B,amit shah,False
+5,C,nitin gadkari,False
+5,D,rajnath,False
+6,A,amit shah,False
+6,B,nirmala sitaraman,False
+6,C,smriti irani,False
+6,D,rajnath singh,True
+7,A,sundar pichai,True
+7,B,jeff bezos,False
+7,C,nelson mandela,False
+7,D,tim cook,False
+8,A,aman gupta,False
+8,B,piyush bhansal,False
+8,C,ashner grover,False
+8,D,satya nadella,True
+9,A,natural long processing,False
+9,B,natural language processing,True
+9,C,natural language program,False
+9,D,none of these,False
+10,A,automatic trauma machine,False
+10,B,automatic tower machine,False
+10,C,automatic teller machine,True
+10,D,all of above,False
+11,A,internet of thug,False
+11,B,internet of things,True
+11,C,internet of teacher,False
+11,D,none,False
+12,A,x,False
+12,B,y,False
+12,C,x,False
+12,D,yy,False
+13,A,asa,False
+13,B,asa,False
+13,C,ad,False
+13,D,asdf,False
+14,A,fsdf,True
+14,B,fsdf,False
+14,C,fs,False
+14,D,vfsd,False
